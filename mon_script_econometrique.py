@@ -1,12 +1,3 @@
-# Script Python Complet pour l'Analyse Économétrique de Panel
-# Ce script est conçu pour la thèse de Master et compile toutes les étapes de l'analyse :
-# - Chargement et préparation des données de panel.
-# - Estimation des modèles de panel (Effets Fixes et Effets Aléatoires).
-# - Tests statistiques, notamment le test de Hausman.
-# - Visualisation des données et des résultats des modèles.
-# - Simulation prospective de l'HICP.
-# ==============================================================================
-
 # --- 1. Installation et Importation des Bibliothèques Nécessaires ---
 # Ces commandes vérifient et installent les bibliothèques Python requises.
 # 'openpyxl' est né# ==============================================================================
