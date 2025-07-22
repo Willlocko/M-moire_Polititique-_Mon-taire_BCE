@@ -500,5 +500,3 @@ for country in countries_to_simulate_plot:
 
 print("\n" + "="*70)
 print("--- Exécution du script d'analyse économétrique terminée ---")
-print("Vous pouvez maintenant copier les sorties textuelles et enregistrer les graphiques pour votre mémoire.")
-print("==============================================================================")
